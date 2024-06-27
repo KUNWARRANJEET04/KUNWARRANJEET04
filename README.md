@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Payment Gateway Design**
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript**
+- 🌱 I’m currently learning **NodeJs, SQL, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KUNWARRANJEET04](https://github.com/KUNWARRANJEET04)
 
