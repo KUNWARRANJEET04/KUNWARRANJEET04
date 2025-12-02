@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunwarranjeet04&label=Profile%20views&color=0e75b6&style=flat" alt="kunwarranjeet04" /> </p>
 
-- 🔭 I’m currently working on **Payment Gateway Design**
+- 🔭 I’m currently working on **imagined-speech Brain–Computer Interface (BCI) research**
 
-- 🌱 I’m currently learning **NodeJs, SQL, MongoDB**
+- 🌱 I’m currently learning **advanced Machine Learning, neural signal processing, and Explainable AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KUNWARRANJEET04](https://github.com/KUNWARRANJEET04)
 
