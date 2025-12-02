@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kunwar Ranjeet</h1>
-<h3 align="center">A Pre-Final Year Student from India!</h3>
+<h3 align="center">A Computer Science student passionate about AI, neural signal processing, and research</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunwarranjeet04&label=Profile%20views&color=0e75b6&style=flat" alt="kunwarranjeet04" /> </p>
 
